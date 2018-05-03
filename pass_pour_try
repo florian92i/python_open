@@ -1,0 +1,4 @@
+try:
+    # Test d'instruction(s)
+except type_de_l_exception: # Rien ne doit se passer en cas d'erreur
+    pass
